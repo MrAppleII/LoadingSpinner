@@ -51,8 +51,10 @@ LoadingSpinner.defaultProps = {
   margin: "0px",
   Color: "#000000",
   BorderRadius: "4px",
+  showLoadingIcon: true,
 }
 LoadingSpinner.propTypes = {
+  showLoadingIcon: PropTypes.bool,
   width: PropTypes.string,
   height: PropTypes.string,
   margin: PropTypes.string,
