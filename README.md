@@ -5,6 +5,7 @@ A Spinner for react created through CSS and styled components.
 
 
   Props for Usage:
+  
   width: Example: "2px", Sets how thick the lines in the spinner are.
   
   height: Example: "15px", sets the length of the spikes.
